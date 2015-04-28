@@ -2,3 +2,10 @@ REFLECTION: What happens when you initialize a repository?
 Why do you need to do it?
 
 You create a new repository in the directory you're in.
+
+
+REFLECTION: How is the staging area different from the working 
+directory and the repository? What value do you think it offers?
+
+It's a middle area, allowing you to review your changes before 
+commiting them.
