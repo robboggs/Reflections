@@ -1,0 +1,4 @@
+REFLECTION: What happens when you initialize a repository? 
+Why do you need to do it?
+
+You create a new repository in the directory you're in.

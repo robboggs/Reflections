@@ -1,0 +1,55 @@
+REFLECTION: How did viewing a diff between two versions of a file help 
+you see the bug that was introduced?
+
+Using "FC" or "diff" allowed me to use the cumputer as a tool
+instead of looking through all the code myself.  Much easier.
+
+
+REFLECTION: How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+You could track update.  ditermin if you're spending too much or not 
+enough time on a part or the whole file.
+
+REFLECTION: What do you think are the pros and cons of manually 
+choosing when to create a commit, like you do in Git, vs having 
+versions automatically saved, like Google docs does?
+
+manually choosing gives you the freedom and responsibility to peronalize 
+your work.  This way you can crate meaningful commits at just the right
+intervals.  However there is a chance you aould forget, so human error is
+a very real possiblity.  The opposite is ture for automatically saving.
+No human error but lots of uncesieary saves that can make going over an 
+older version hard to make sence out of.
+
+
+REFLECTION: Why do you think some version control systems, like Git, 
+allow saving multiple files in one commit, while others, like Google Docs, 
+treat each file separately?
+
+Git was dreated with writing code in mind.  Often code files interact with
+other files and need to to treated as a group.  Google Docs isn't for code.
+
+
+REFLECTION: How can you use the commands git log and git diff to view 
+the history of files?
+
+These commands log the changes with your notes on the change so you can 
+compare two versions of your file.  So log looks up and diff breaks 
+down changes.
+
+REFLECTION: How might using version control make you more confident 
+to make changes that could break something?
+
+The fear of doing something and not being able to go back is removed.  
+The whole point of version control is that I can always have a reliable 
+backup.
+
+REFLECTION: Now that you have your workspace set up, what do you want to try using 
+Git for?
+
+I want to build large projects involving many files.  Projects like websites,
+python web apps, android apps, and most importantly work in a large system 
+sharing and creating.
+
+ 
