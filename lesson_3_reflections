@@ -1,3 +1,11 @@
-REFLECTION: When would you want to use a remote repository rather than keeping all your work local?
+REFLECTION: When would you want to use a remote repository 
+rather than keeping all your work local?
 
-If your project is large, you want/need to work on it from different locations, different people will be working on it.
+If your project is large, you want/need to work on it from 
+different locations, different people will be working on it.
+
+
+REFLECTION: Why might you want to always pull changes manually 
+rather than having Git automatically stay up-to-date with your remote repository?
+
+It's good to make meaningful commits that make clear sense to you.
